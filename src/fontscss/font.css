@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "FZLTDHK--GBK1-0";
+    src: url("方正兰亭大黑_GBK.TTF") ;
+    font-weight: normal;
+    font-style: normal;
+  }
+  @font-face {
+  font-family: "FZLTXHK--GBK1-0";
+      src: url("方正兰亭细黑_GBK.TTF") ;
+    font-weight: normal;
+      font-style: normal;
+      font-display: block;
+  }
